@@ -1,34 +1,40 @@
-body{
-  font-family:Indie Flower;
+body {
+  font-family: Indie Flower;
   background-color: #1b262c;
 }
 
-h1{
+h1 {
   font-family: Pacifico;
   text-align: center;
-  color:#3282b8;
+  color: #3282b8;
   font-size: 8rem;
   margin: 0 auto 50px auto;
   text-shadow: 3px 0 black;
 }
 
-footer{
+footer {
   text-align: center;
   color: #bbe1fa;
-}
-input{
-  font-family:Indie Flower;
-  background-color: #3282b8;
-  border-color: #0f4c75;
+  margin-top: 50px;
 }
 
-.container{
-  display:block;
+.button {
+  font-family: Indie Flower;
+  background-color: #3282b8;
+  border-color: #0f4c75;
+  font-size: 1.5rem;
+  border-width: 10px;
+  border-radius: 10px;
+}
+
+.container {
+  display: block;
   text-align: center;
 }
-.playArea{
-  display:inline-block;
+
+.playArea {
+  display: inline-block;
   text-align: center;
-  color:#3282b8;
+  color: #3282b8;
   font-size: 2rem;
 }
